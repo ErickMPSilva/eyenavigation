@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+
+# Dados gerados em cada máquina / sessão
+calibration.pkl
+eyenav_metrics.csv
+eyenav_screenshot_*.png
